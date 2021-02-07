@@ -12,5 +12,7 @@ public class ProfileController {
 	public String hello() {
 		return "hello";
 	}
+	
+	
 
 }
